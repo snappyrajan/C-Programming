@@ -6,5 +6,5 @@ void main()
   if(n>=1&&n<=100000)
     printf("POSITIVE");
   else
-    printf("NEGATIVE");
+    printf("INVALID");
  }
