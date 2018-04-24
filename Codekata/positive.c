@@ -5,11 +5,11 @@ void main()
   scanf("%d"&n);
   if(n>=1&&n<=100000)
     if(n>=1)
-         printf("POSITIVE");
+         printf("Positive");
     elseif(n==0)
-         printf("ZERO");
+         printf("Zero");
     else
-         printf("NEGATIVE");
+         printf("Negative");
   else
     printf("INVALID");
  }
