@@ -8,7 +8,7 @@ int main()
         printf("Alphabet");
     
     else
-        printf("NOT");
+        printf("No");
 
     return 0;
 }
